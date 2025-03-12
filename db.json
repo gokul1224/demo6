@@ -23,15 +23,15 @@
                 "PartNumber": "ATMega328P",
                 "Manufacturer": "Arduino"
             },
-            "MaterialID": "MID00004",
+            "MaterialID": "MID00001",
             "MaterialDescription": "200V N-channel MOSFET for power applications. More details: https://www.infineon.com/cms/en/product/power/mosfet/irfp4468pbf/",
             "MaterialType": "Electronics",
             "MaterialQuantities": 25,
             "MaterialLocation": "Box No.202",
             "MaterialDatasheet": "https://www.infineon.com/dgdl/irfp4468pbf.pdf",
             "MaterialImages": [
-                "https://example.com/images/irfp4468pbf_1.jpg",
-                "https://example.com/images/irfp4468pbf_2.jpg"
+                "https://m.media-amazon.com/images/I/71z22cRPeeL._AC_UF350,350_QL80_.jpg",
+                "https://www.electroschematics.com/wp-content/uploads/2013/01/Arduino-Uno-R3-Pinouts.png"
             ]
         }
     ]
