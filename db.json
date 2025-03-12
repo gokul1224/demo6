@@ -6,7 +6,7 @@
                 "PartNumber": "Pi 4",
                 "Manufacturer": "Pi"
             },
-            "MaterialID": "MID00003",
+            "MaterialID": "MID00002",
             "MaterialDescription": "Low-power 32-bit microcontroller with ARM Cortex-M core. More details: https://www.st.com/en/microcontrollers-microprocessors/stm32lxxx.html",
             "MaterialType": "Electronics",
             "MaterialQuantities": 50,
