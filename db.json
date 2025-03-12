@@ -1,0 +1,38 @@
+{
+    "inventory": [
+        {
+            "MaterialTitle": {
+                "Name": "Raspberry Pi 4B",
+                "PartNumber": "Pi 4",
+                "Manufacturer": "Pi"
+            },
+            "MaterialID": "MID00002",
+            "MaterialDescription": "Low-power 32-bit microcontroller with ARM Cortex-M core. More details: https://www.st.com/en/microcontrollers-microprocessors/stm32lxxx.html",
+            "MaterialType": "Electronics",
+            "MaterialQuantities": 50,
+            "MaterialLocation": "Box No.101",
+            "MaterialDatasheet": "https://www.st.com/resource/en/datasheet/stm32lxxx.pdf",
+            "MaterialImages": [
+                "https://example.com/images/stm32lxxx_1.jpg",
+                "https://example.com/images/stm32lxxx_2.jpg"
+            ]
+        },
+        {
+            "MaterialTitle": {
+                "Name": "MOSFET Transistor",
+                "PartNumber": "IRFP4468PBF",
+                "Manufacturer": "Infineon"
+            },
+            "MaterialID": "MID00002",
+            "MaterialDescription": "200V N-channel MOSFET for power applications. More details: https://www.infineon.com/cms/en/product/power/mosfet/irfp4468pbf/",
+            "MaterialType": "Electronics",
+            "MaterialQuantities": 25,
+            "MaterialLocation": "Box No.202",
+            "MaterialDatasheet": "https://www.infineon.com/dgdl/irfp4468pbf.pdf",
+            "MaterialImages": [
+                "https://example.com/images/irfp4468pbf_1.jpg",
+                "https://example.com/images/irfp4468pbf_2.jpg"
+            ]
+        }
+    ]
+}
