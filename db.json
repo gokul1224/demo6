@@ -6,7 +6,7 @@
                 "PartNumber": "Pi 4",
                 "Manufacturer": "Pi"
             },
-            "MaterialID": "MID00002",
+            "MaterialID": "MID00003",
             "MaterialDescription": "Low-power 32-bit microcontroller with ARM Cortex-M core. More details: https://www.st.com/en/microcontrollers-microprocessors/stm32lxxx.html",
             "MaterialType": "Electronics",
             "MaterialQuantities": 50,
@@ -19,11 +19,11 @@
         },
         {
             "MaterialTitle": {
-                "Name": "MOSFET Transistor",
-                "PartNumber": "IRFP4468PBF",
-                "Manufacturer": "Infineon"
+                "Name": "Arduino UNO",
+                "PartNumber": "ATMega328P",
+                "Manufacturer": "Arduino"
             },
-            "MaterialID": "MID00002",
+            "MaterialID": "MID00004",
             "MaterialDescription": "200V N-channel MOSFET for power applications. More details: https://www.infineon.com/cms/en/product/power/mosfet/irfp4468pbf/",
             "MaterialType": "Electronics",
             "MaterialQuantities": 25,
